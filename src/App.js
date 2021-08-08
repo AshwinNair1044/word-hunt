@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-import './App.css';
+
 import { useEffect, useState } from 'react';
 import { Container, withStyles } from '@material-ui/core';
 import Header from './components/Header/Header';
